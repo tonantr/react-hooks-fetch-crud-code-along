@@ -1,40 +1,70 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "Ice Cream A",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 1
     },
     {
-      "id": 3,
-      "name": "Lettuce",
+      "name": "Ice Cream A",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 2
     },
     {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 3
+    },
+    {
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 4
+    },
+    {
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 5
+    },
+    {
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 6
+    },
+    {
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Ice Cream A",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Ice Cream A",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 10
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
+      "name": "Ice Cream A",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 11
     }
   ]
 }
